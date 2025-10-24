@@ -11,7 +11,6 @@ body {
     color: var(--azul);
 }
 
-/* Navbar */
 .navbar {
     background-color: var(--azul) !important;
 }
@@ -32,7 +31,6 @@ body {
     background-color: var(--azul) !important;
 }
 
-/* Collapse header */
 .text-bg-light {
     background-color: var(--crema) !important;
     color: var(--azul) !important;
@@ -46,7 +44,6 @@ body {
     color: var(--azul) !important;
 }
 
-/* Hero section */
 .py-5.text-center {
     background-color: var(--crema) !important;
     padding: 3rem 0 !important;
@@ -92,7 +89,6 @@ body {
     color: white !important;
 }
 
-/* Botones outline */
 .btn-outline-primary {
     color: var(--crema);
     border-color: var(--crema);
@@ -117,7 +113,6 @@ body {
     border-color: var(--crema) !important;
 }
 
-/* Sección de galería */
 .album {
     background-color: var(--crema) !important;
     padding: 3rem 0;
@@ -127,7 +122,6 @@ body {
     background-color: var(--crema) !important;
 }
 
-/* Cards con fondo celeste */
 .card {
     background-color: var(--celeste) !important;
     border: none;
@@ -169,7 +163,6 @@ body {
     opacity: 0.9;
 }
 
-/* Footer */
 footer {
     background-color: var(--rojo-oscuro);
     color: var(--crema);
@@ -224,7 +217,6 @@ a:hover {
     color: var(--rojo-oscuro);
 }
 
-/* Estilos auxiliares */
 .shadow-sm {
     box-shadow: 0 2px 8px rgba(0, 48, 73, 0.1) !important;
 }
