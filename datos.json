@@ -1,56 +1,64 @@
 [
-  {
-    "alt": "Proyecto 1",
-    "imagen": "https://nourjalilie.github.io/Clase10/img/app.png",
-    "titulo": "App Fitness",
-    "categoria": "Diseño de Interfaz"
-  },
-  {
-    "alt": "Proyecto 2",
-    "imagen": "bioplastico.jpeg",
-    "titulo": "Bioplástico",
-    "categoria": "Diseño de Biomateriales"
-  },
-  {
-    "alt": "Proyecto 4",
-    "imagen": "boltris.png",
-    "titulo": "Boltris",
-    "categoria": "Diseño de Producto"
-  },
-  {
-    "alt": "Proyecto 5",
-    "imagen": "senal.png",
-    "titulo": "Señaletica",
-    "categoria": "Diseño de Señaleticas"
-  },
-  {
-    "alt": "Proyecto 6",
-    "imagen": "cartas.png",
-    "titulo": "Cartas Personalizadas",
-    "categoria": "Pedido Personalizado"
-  },
-  {
-    "alt": "Proyecto 7",
-    "imagen": "kachow.png",
-    "titulo": "Autito",
-    "categoria": "Diseño por manufactura digital"
-  },
-  {
-    "alt": "Proyecto 3",
-    "imagen": "bolsas.png",
-    "titulo": "Bolsas a pedido",
-    "categoria": "Pedido Personalizado"
-  },
-  {
-    "alt": "Proyecto 8",
-    "imagen": "lampara.png",
-    "titulo": "Lámpara",
-    "categoria": "Diseño de producto"
-  },
-  {
-    "alt": "Proyecto 9",
-    "imagen": "olerium.png",
-    "titulo": "Olerium",
-    "categoria": "Diseño de Juego"
-  }
+    {
+        "titulo": "App Fitness",
+        "categoria": "Diseño de Interfaz",
+        "imagen": "https://nourjalilie.github.io/Ev3/img/app.png",
+        "alt": "Proyecto 1"
+    },
+
+    {
+        "titulo": "Bioplástico",
+        "categoria": "Diseño de Biomateriales",
+        "imagen": "https://nourjalilie.github.io/Ev3/img/bioplastico.jpeg",
+        "alt": "Proyecto 2"
+    },
+
+    {
+        "titulo": "Boltris",
+        "categoria": "Diseño de Producto",
+        "imagen": "https://nourjalilie.github.io/Ev3/img/boltris.png",
+        "alt": "Proyecto 4"
+    },
+
+    {
+        "titulo": "Señaletica",
+        "categoria": "Diseño de Señaleticas",
+        "imagen": "https://nourjalilie.github.io/Ev3/img/senal.png",
+        "alt": "Proyecto 5"
+    },
+
+    {
+        "titulo": "Cartas Personalizadas",
+        "categoria": "Pedido Personalizado",
+        "imagen": "https://nourjalilie.github.io/Ev3/img/cartas.png",
+        "alt": "Proyecto 6"
+    },
+
+    {
+        "titulo": "Autito",
+        "categoria": "Diseño por manufactura digital",
+        "imagen": "https://nourjalilie.github.io/Ev3/img/kachow.png",
+        "alt": "Proyecto 7"
+    },
+
+    {
+        "titulo": "Bolsas a pedido",
+        "categoria": "Pedido Personalizado",
+        "imagen": "https://nourjalilie.github.io/Ev3/img/bolsas.png",
+        "alt": "Proyecto 3"
+    },
+
+    {
+        "titulo": "Lámpara",
+        "categoria": "Diseño de producto",
+        "imagen": "https://nourjalilie.github.io/Ev3/img/lampara.png",
+        "alt": "Proyecto 8"
+    },
+
+    {
+        "titulo": "Olerium",
+        "categoria": "Diseño de Juego",
+        "imagen": "https://nourjalilie.github.io/Ev3/img/olerium.png",
+        "alt": "Proyecto 9"
+    }
 ]
