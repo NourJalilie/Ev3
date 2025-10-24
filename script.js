@@ -34,5 +34,6 @@ async function datos(raw) {
     }
 }
 
-datos("https://raw.githubusercontent.com/NourJalilie/Clase10/refs/heads/main/datos.json");
+datos("https://api.myjson.online/v1/records/1778e707-9435-43c2-97bb-28e4a605e792");
+
 
