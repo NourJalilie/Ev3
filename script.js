@@ -1,3 +1,7 @@
+let consulta = await fetch(raw);
+let resultado = await consulta.json();
+let trabajos = resultado.data;
+console.log(trabajos);
 const portfolio = document.querySelector("#porotito");
 
 async function datos(raw) {
@@ -31,3 +35,4 @@ async function datos(raw) {
 }
 
 datos("https://raw.githubusercontent.com/NourJalilie/Clase10/refs/heads/main/datos.json");
+
