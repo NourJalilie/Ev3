@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es" data-bs-theme="dark">
+<html lang="es">
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -16,15 +16,8 @@
                         <div class="col-sm-8 col-md-7 py-4">
                             <h4>Hola!</h4>
                             <p class="text-body-secondary">
-                                Estoy haciendo el portafolio de mi amiga.
+                                Estoy haciendo el portafolio de mi amiga, Ambar Martin, estudiante de Diseño UC. Le gusta el área de diseño gráfico, branding, productos e innovación. Se centro en esas áreas por gusto, pero tiene conocimiento de otras por lo que puede desenvolverse en distinas áreas de diseño para poder mejorar y aprender.
                             </p>
-                            <h5>Contact</h5>
-                            <ul class="list-unstyled">
-                                <li><a href="https://www.instagram.com/paisa.dno/" class="text-black">Instagram</a></li>
-                                <li><a href="mailto:nour.jalilie@uc.cl" class="text-black">Correo</a></li>
-                                <li><a href="https://www.linkedin.com/in/nour-jalilie-alamo-5a618a310/" class="text-black">Linkedin</a></li>
-                                <li><a href="https://www.behance.net/nourjalilie_" class="text-black">Behance</a></li>
-                            </ul>
                         </div>
                         <div class="col-sm-4 py-4">
                             <h4 class="ms-2">Habilidades</h4>
@@ -57,7 +50,7 @@
                             Portafolio Diseño Integral<br />
                             2022-2025.
                         </p>
-                        <p><a href="#" class="btn btn-primary my-2">Página principal</a> <a href="#" class="btn btn-secondary my-2">Más info.</a></p>
+                        <p><a href="#" class="btn btn-primary my-2" style="background-color: #c1121f" >Página principal</a> <a href="#" class="btn btn-secondary my-2">Más info.</a></p>
                     </div>
                 </div>
             </section>
@@ -70,8 +63,7 @@
         <footer class="text-body-secondary py-5">
             <div class="container">
                 <p class="float-end mb-1"><a href="#">Devuelvete!</a></p>
-                <p class="mb-1">Espero que te haya gustado mi portafolio, cualquier comentario o sugerencia es bienvenido :)</p>
-                <!-- <p class="mb-0">New to Bootstrap? <a href="/">Visit the homepage</a> or read our <a href="/docs/5.3/getting-started/introduction">getting started guide</a>.</p> -->
+                <p class="mb-1">Diseño UC - Ambar Martin</p>
             </div>
         </footer>
 
@@ -79,10 +71,10 @@
         <script src="script.js"></script>
         <script>
             const habilidades = [
-                { programa: "Photoshop", valor: "30" },
-                { programa: "Figma", valor: "85" },
-                { programa: "Illustrator", valor: "80" },
-                { programa: "Premiere", valor: "55" },
+                {programa:"Photoshop", valor: "80"},
+            {programa:"Ilustrator", valor: "70"},
+            {programa:"Indesign", valor:"40"},
+            {programa:"Blender", valor: "20"}
             ];
 
             const donde = document.querySelector("#aqui");
@@ -92,7 +84,7 @@
                                     <td class="w-25">${h.programa}</td>
                                     <td>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 5">
-                                        <rect width="${h.valor}" height="5" rx="1" ry="1" fill="black"/>
+                                        <rect width="${h.valor}" height="5" rx="1" ry="1"/>
                                     </svg>
                                     </td>
                                 </tr>`;
